@@ -82,6 +82,3 @@ I don’t limit myself to just coding — I also enjoy sharing my projects and i
 ![Profile views counter](https://komarev.com/ghpvc/?username=R-77ER&&style=flat-square)  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
