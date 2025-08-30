@@ -29,7 +29,7 @@ I don’t limit myself to just coding — I also enjoy sharing my projects and i
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://p.turbosquid.com/ts-thumb/j3/XddOrx/5OgTyLK7/001/jpg/1370265735/1920x1080/fit_q87/dd5bc6c3d73b8d7b4e42cca2f81204d261d8b5b1/001.jpg" align="center" style="width: 100%" />
+<img src="https://p.turbosquid.com/ts-thumb/j3/XddOrx/5OgTyLK7/001/jpg/1370265735/1920x1080/fit_q87/dd5bc6c3d73b8d7b4e42cca2f81204d261d8b5b1/001.jpg" align="center" style="width: 50%" />
 </div>  
 
 
